@@ -1,0 +1,10 @@
+.centerBox {
+	text-align: center;
+	margin: auto;
+	margin-top: 100px;
+}
+
+.hexButton {
+	width: 50%;
+	height: 50px;
+}
